@@ -15,3 +15,6 @@ Try to edit first in server then locally, this is the local part
 2014-06-23 14:04
 Try to first edit in the server, then edit locally, then locally push
 This is the server part
+
+2014-06-23 12:24
+Edit on db's PC
